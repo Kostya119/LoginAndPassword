@@ -1,6 +1,6 @@
 public class Program {
     public static void main(String[] args) {
-        User user = new User("Alice", "Qwerty");
+        User user = new User("Alice", "qwerty");
         user.acount.displayAccount();
     }
 }
